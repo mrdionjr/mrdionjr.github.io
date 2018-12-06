@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Salomon Dion</title>
+    <link>https://dgsdion.me/blog/</link>
+    <description>Recent content in Blog on Salomon Dion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dgsdion.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://dgsdion.me/blog/welcome/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgsdion.me/blog/welcome/</guid>
+      <description>Whoah! This is my very first blog post. It is a dream that becomes reality. I would like to thank you for your interest. I will show you my universe, share my knowledge and adventures with you.</description>
+    </item>
+    
+  </channel>
+</rss>
