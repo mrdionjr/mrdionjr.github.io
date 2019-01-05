@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Work on Salomon Dion</title>
-    <link>https://dgsdion.me/work/</link>
-    <description>Recent content in Work on Salomon Dion</description>
+    <title>Framework on Salomon Dion</title>
+    <link>https://dgsdion.me/categories/framework/</link>
+    <description>Recent content in Framework on Salomon Dion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Dec 2018 02:48:38 +0000</lastBuildDate>
     
-	<atom:link href="https://dgsdion.me/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dgsdion.me/categories/framework/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://dgsdion.me/work/bow/</guid>
       <description>Bow is a PHP web application framework, developed by Franck DAKIA and its collaborators. It allows developpers to write modern PHP applications and makes development easier. I&amp;rsquo;m a member of the core development team.</description>
-    </item>
-    
-    <item>
-      <title>Yoda</title>
-      <link>https://dgsdion.me/work/yoda/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgsdion.me/work/yoda/</guid>
-      <description>A simple and lightweight command-line tool for template parsing. It allows to replace shortcodes inside a text with their corresponding values. You might want to use Yoda if you want to bulk send the same email to different users without having to manually write their details.</description>
     </item>
     
   </channel>
