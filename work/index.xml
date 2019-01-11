@@ -6,10 +6,19 @@
     <description>Recent content in Work on Salomon Dion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Dec 2018 02:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:59:30 +0000</lastBuildDate>
     
 	<atom:link href="https://dgsdion.me/work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Churchy</title>
+      <link>https://dgsdion.me/work/churchy/</link>
+      <pubDate>Fri, 11 Jan 2019 00:59:30 +0000</pubDate>
+      
+      <guid>https://dgsdion.me/work/churchy/</guid>
+      <description>Churchy is a church management system build on top of Electron and Vue. It allows churches to manages their members and divisions. It has an authentication systems and access/actions restrictions depending on the user roles. It features a dashboard which shows statistics about the adhesions.</description>
+    </item>
     
     <item>
       <title>Bow</title>
