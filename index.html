@@ -377,22 +377,23 @@
         <div class="form-row">
           <div class="col-12 col-xl-6 col-lg-6 col-md-6">
             <label>Name</label>
-            <input type="text" class="form-control" name="name" placeholder="Name">
+            <input required type="text" class="form-control" name="name" placeholder="Name">
           </div>
           <div class="col-12 col-xl-6 col-lg-6 col-md-6">
             <label>Email</label>
-            <input type="email" class="form-control" name="_replyto" placeholder="Email">
+            <input required type="email" class="form-control" name="_replyto" placeholder="Email">
           </div>
         </div>
     
         <div class="form-group">
           <label>Message</label>
-          <textarea placeholder="Message" name="message" class="form-control" rows="4"></textarea>
+          <textarea required placeholder="Message" name="message" class="form-control" rows="4"></textarea>
         </div>
         <button type="submit" class="btn btn-dark">Submit</button>
       </form>
   </div>
 </section>
+
 </div>
 
 <script src="/js/highlight.min.js"></script>
