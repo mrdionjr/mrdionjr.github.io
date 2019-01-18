@@ -23,24 +23,37 @@
   </url>
   
   <url>
+    <loc>https://dgsdion.me/categories/app/</loc>
+    <lastmod>2019-01-11T00:59:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dgsdion.me/blog/</loc>
     <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dgsdion.me/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dgsdion.me/categories/cli/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-11T00:59:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dgsdion.me/categories/framework/</loc>
     <lastmod>2018-12-18T02:48:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dgsdion.me/categories/library/</loc>
+    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dgsdion.me/categories/open-source/</loc>
+    <lastmod>2019-01-11T00:59:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   

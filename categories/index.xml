@@ -6,16 +6,17 @@
     <description>Recent content in Categories on Salomon Dion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2019 00:59:30 +0000</lastBuildDate>
     
 	<atom:link href="https://dgsdion.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cli</title>
-      <link>https://dgsdion.me/categories/cli/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <title>App</title>
+      <link>https://dgsdion.me/categories/app/</link>
+      <pubDate>Fri, 11 Jan 2019 00:59:30 +0000</pubDate>
       
-      <guid>https://dgsdion.me/categories/cli/</guid>
+      <guid>https://dgsdion.me/categories/app/</guid>
       <description></description>
     </item>
     
@@ -25,6 +26,24 @@
       <pubDate>Tue, 18 Dec 2018 02:48:38 +0000</pubDate>
       
       <guid>https://dgsdion.me/categories/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Library</title>
+      <link>https://dgsdion.me/categories/library/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgsdion.me/categories/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://dgsdion.me/categories/open-source/</link>
+      <pubDate>Fri, 11 Jan 2019 00:59:30 +0000</pubDate>
+      
+      <guid>https://dgsdion.me/categories/open-source/</guid>
       <description></description>
     </item>
     
